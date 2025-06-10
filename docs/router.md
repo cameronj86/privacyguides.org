@@ -29,7 +29,7 @@ Below are a few alternative operating systems that can be used on routers, Wi-Fi
 
 </div>
 
-You can consult OpenWrt's [table of hardware](https://openwrt.org/toh/start) to check if your device is supported.
+You can consult OpenWrt's [table of hardware](https://toh.openwrt.org/?view=normal) to check if your device is supported.
 
 ## OPNsense
 
